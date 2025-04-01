@@ -22,7 +22,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/f1fSK/project-name">
+  <a href="https://github.com/f1fSK/txadminlogs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=f1fSK&repo=txadminlogs&theme=dark" />
   </a>
 </div>
