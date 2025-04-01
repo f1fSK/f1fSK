@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm f1f</h1>
-<h3 align="center">A passionate lua developer from Slovakia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+f1f+%F0%9F%91%8B;Lua+Developer;FiveM+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f1fSK&label=Profile%20views&color=0e75b6&style=flat" alt="f1f" /> </p>
+<h3 align="center">A passionate Lua developer from Slovakia</h3>
 
-- 🔭 I’m currently working on [Action Gaming](https://discord.gg/2dm9Jw2Smj)
+<div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=f1fSK&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/f1fSK)
+[![GitHub followers](https://img.shields.io/github/followers/f1fSK?label=Followers&style=social)](https://github.com/f1fSK?tab=followers)
+
+</div>
+
+## 🧐 About Me
+
+- 🔭 I'm currently working on [Action Gaming](https://discord.gg/2dm9Jw2Smj)
+- 🌱 I'm currently learning **Python** and expanding my skills
 - 👨‍💻 All of my projects are available at [Github](https://github.com/f1fSK)
+- 💬 Ask me about **Lua, FiveM development, and game scripting**
+- ⚡ Fun fact: I started coding because I wanted to create my own game mods
 
-- 🌱 I’m currently learning **Python**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <a href="https://github.com/f1fSK/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f1fSK&repo=project-name&theme=dark" />
+  </a>
+</div>
 
-<h2 align="left">I code with</h2>
+## 🛠️ Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" height="40" alt="lua"  />
-  <img width="12" />
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" height="40" alt="python"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<h4 align="center">Development Tools</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f1fSK&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f1fSK&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1fSK&layout=compact&theme=dark" alt="Top Languages" />
 </div>
