@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+f1f+%F0%9F%91%8B;Lua+Developer;FiveM+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate Lua developer from Slovakia</h3>
+<h3 align="center">A passionate Lua developer from 🇸🇰</h3>
 
 <div align="center">
 
