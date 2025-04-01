@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/f1fSK/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f1fSK&repo=project-name&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f1fSK&repo=txadminlogs&theme=dark" />
   </a>
 </div>
 
