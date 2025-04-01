@@ -13,7 +13,7 @@
 
 ## 🧐 About Me
 
-- 🔭 I'm currently working on [Action Gaming](https://discord.gg/2dm9Jw2Smj)
+- 🔭 I'm currently working on anticheat
 - 🌱 I'm currently learning **Python** and expanding my skills
 - 👨‍💻 All of my projects are available at [Github](https://github.com/f1fSK)
 - 💬 Ask me about **Lua, FiveM development, and game scripting**
