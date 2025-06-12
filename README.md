@@ -15,7 +15,7 @@
 
 ## 🆘 Support
 
-If you have any problem or question about my projects, **open a GitHub issue** or join my [Discord server](https://discord.gg/DATtS7safp) and create a ticket.
+If you have any problem or question about my projects, **open a GitHub issue** or join my [Discord server](https://discord.gg/hZHWNWvwm3) and create a ticket.
 
 ---
 
