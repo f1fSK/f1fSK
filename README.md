@@ -15,7 +15,7 @@
 
 - 🔭 I'm currently working on anticheat
 - 🌱 I'm currently learning **Python** and expanding my skills
-- 👨‍💻 All of my projects are available at [Github](https://github.com/f1fSK)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/f1fSK) or [my Website](https://f1fsk.github.io)
 - 💬 Ask me about **Lua, FiveM development, and game scripting**
 - ⚡ Fun fact: I started coding because I didn't want to pay for overpriced scripts
 
