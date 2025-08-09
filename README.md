@@ -28,7 +28,7 @@ If you have any problem or question about my projects, **open a GitHub issue** o
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/f1fSK/txadminlogs">
+  <a href="https://github.com/f1fSK/weapon_sling">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=f1fSK&repo=txadminlogs&theme=dark" />
   </a>
 </div>
